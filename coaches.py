@@ -18,7 +18,7 @@ def rank_coaches(type):
     coaches_active = {"file_name": f"csv/coach/coaches_active_{type['name']}.csv",
                     "list": [c for c in COACHES if c['activeCoach']]}
     coaches_all_time = {"file_name": f"csv/coach/coaches_all_time_{type['name']}.csv",
-                        "list": [c for c in COACHES if c['seasons'] > 1]}
+                        "list": [c for c in COACHES]}
     percentages_with_cup = []
 
     for coach_list in [coaches_active, coaches_all_time]:
@@ -90,7 +90,7 @@ def rank_coaches_team(type):
     COACHES = get_coaches(type['id'])
     coaches_active_team = {"file_name": f"csv/coach/coaches_active_team_{type['name']}.csv",
                         "list": [c for c in COACHES if c['activeCoach']]}
-    coaches_all_time_team = {"file_name": f"csv/coach/coaches_all_time_team_{type['name']}.csv","list": [c for c in COACHES if c['seasons'] > 1]}
+    coaches_all_time_team = {"file_name": f"csv/coach/coaches_all_time_team_{type['name']}.csv","list": [c for c in COACHES]}
 
     for coach_list in [coaches_active_team, coaches_all_time_team]:
         file_name = coach_list['file_name']
@@ -105,9 +105,9 @@ def rank_coaches_team(type):
                 'stanleyCups': coach['stanleyCups'],
                 'team': coach['teamName'],
                 'winPctg': round(coach['winPctg'], 3),
-                'homeWinPctg': round(coach['homeWinPctg'], 3),
-                'roadWinPctg': round(coach['roadWinPctg'], 3),
-                'pointPctg': round(coach['pointPctg'], 3),
+                'homeWinPctg': round(coach['homeWinPctg'], 3) if coach['homeWinPctg'] else None,
+                'roadWinPctg': round(coach['roadWinPctg'], 3) if coach['roadWinPctg'] else None,
+                'pointPctg': round(coach['pointPctg'], 3) if coach['pointPctg'] else None,
                 'wins': coach['wins'],
                 'seasons': coach['seasons']
             }
@@ -118,18 +118,19 @@ def rank_coaches_team(type):
 
         with open(f'{file_name}', 'w', newline='') as file:
             writer = csv.writer(file, delimiter=',')
-            writer.writerow(['Coach', 'Win %', 'Home Win %',
-                            'Road Win %', 'Points %', 'Wins', 'Seasons', 'Stanley Cups', 'Team'])
+            writer.writerow(['Coach', 'Team', 'Win %', 'Home Win %',
+                            'Road Win %', 'Points %', 'Wins', 'Seasons', 'Stanley Cups'])
             for c in sorted_win_pctg:
                 writer.writerow([c['coachName'],
+                                c['team'],
                                 c['winPctg'],
                                 c['homeWinPctg'],
                                 c['roadWinPctg'],
                                 c['pointPctg'],
                                 c['wins'],
                                 c['seasons'],
-                                c['stanleyCups'],
-                                c['team']])
+                                c['stanleyCups']
+                                ])
         file.close()
 
 for type in GAME_TYPES:
