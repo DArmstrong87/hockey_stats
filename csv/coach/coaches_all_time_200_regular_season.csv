@@ -1,0 +1,145 @@
+Coach,Win %,Home Win %,Road Win %,Points %,Games,Wins,Seasons,Stanley Cups,Teams
+Tom Johnson,0.683,0.745,0.618,0.738,208,142,3,1,['Boston Bruins']
+Dan Bylsma,0.628,0.675,0.582,0.668,401,252,6,1,['Pittsburgh Penguins']
+Sheldon Keefe,0.625,0.679,0.573,0.683,216,135,4,0,['Toronto Maple Leafs']
+Bruce Cassidy,0.614,0.663,0.564,0.672,399,245,6,0,['Boston Bruins']
+Jon Cooper,0.609,0.673,0.544,0.65,744,453,11,2,['Tampa Bay Lightning']
+Rod Brind'Amour,0.603,0.64,0.567,0.656,317,191,5,0,['Carolina Hurricanes']
+Floyd Smith,0.596,0.692,0.5,0.671,240,143,3,0,['Buffalo Sabres']
+Mike Sullivan,0.587,0.668,0.506,0.641,537,315,8,2,['Pittsburgh Penguins']
+Don Cherry,0.578,0.685,0.47,0.657,400,231,5,0,['Boston Bruins']
+Bruce Boudreau,0.574,0.63,0.519,0.633,329,567,14,0,"['Washington Capitals', 'Anaheim Ducks', 'Minnesota Wild']"
+Glen Sather,0.565,0.656,0.474,0.628,782,442,10,4,['Edmonton Oilers']
+Craig Berube,0.564,0.585,0.545,0.625,303,171,5,1,['St. Louis Blues']
+Tommy Ivan,0.557,0.634,0.481,0.653,470,262,7,3,['Detroit Red Wings']
+Fred Shero,0.556,0.737,0.376,0.642,554,308,7,2,['Philadelphia Flyers']
+Gerard Gallant,0.554,0.615,0.49,0.601,213,118,3,0,['Vegas Golden Knights']
+Scotty Bowman,0.553,0.64,0.467,0.632,634,1102,27,8,"['Montréal Canadiens', 'Detroit Red Wings', 'St. Louis Blues', 'Buffalo Sabres']"
+Cecil Hart,0.552,0.634,0.47,0.642,268,148,6,2,['Montréal Canadiens']
+Toe Blake,0.547,0.643,0.451,0.634,914,500,13,8,['Montréal Canadiens']
+Gerry Cheevers,0.543,0.624,0.46,0.604,376,204,5,0,['Boston Bruins']
+Barry Trotz,0.539,0.598,0.481,0.599,288,914,23,1,"['New York Islanders', 'Washington Capitals', 'Nashville Predators']"
+Guy Carbonneau,0.539,0.607,0.475,0.589,230,124,3,0,['Montréal Canadiens']
+Joel Quenneville,0.539,0.599,0.479,0.602,797,890,22,3,"['Chicago Blackhawks', 'St. Louis Blues', 'Colorado Avalanche']"
+Mike Babcock,0.538,0.571,0.505,0.603,351,631,15,1,"['Toronto Maple Leafs', 'Detroit Red Wings']"
+Mike Keenan,0.536,0.644,0.428,0.59,320,343,8,0,"['Chicago Blackhawks', 'Philadelphia Flyers']"
+Peter Laviolette,0.533,0.574,0.492,0.591,272,560,16,1,"['Philadelphia Flyers', 'Carolina Hurricanes', 'Nashville Predators']"
+Jared Bednar,0.529,0.588,0.471,0.579,482,255,7,1,['Colorado Avalanche']
+Patrick Roy,0.528,0.537,0.52,0.577,246,130,3,0,['Colorado Avalanche']
+Ken Hitchcock,0.527,0.569,0.486,0.598,503,781,21,1,"['Dallas Stars', 'Philadelphia Flyers', 'St. Louis Blues', 'Columbus Blue Jackets']"
+Jean Perron,0.525,0.65,0.4,0.588,240,126,3,1,['Montréal Canadiens']
+Michel Therrien,0.524,0.566,0.481,0.579,352,329,9,0,"['Montréal Canadiens', 'Pittsburgh Penguins']"
+Emile Francis,0.523,0.619,0.429,0.602,654,342,10,0,['New York Rangers']
+Randy Carlyle,0.517,0.602,0.433,0.586,516,384,10,1,"['Anaheim Ducks', 'Anaheim Ducks']"
+Alain Vigneault,0.514,0.541,0.486,0.571,266,648,16,0,"['Montréal Canadiens', 'New York Rangers', 'Vancouver Canucks']"
+Marc Crawford,0.513,0.557,0.469,0.592,529,411,11,1,"['Vancouver Canucks', 'Colorado Avalanche']"
+Billy Reay,0.51,0.611,0.409,0.589,1012,516,14,0,['Chicago Blackhawks']
+Bryan Murray,0.509,0.603,0.417,0.57,244,467,12,0,"['Detroit Red Wings', 'Washington Capitals']"
+Claude Julien,0.509,0.521,0.497,0.571,277,548,15,1,"['Montréal Canadiens', 'Boston Bruins']"
+Terry O'Reilly,0.507,0.56,0.451,0.564,227,115,3,0,['Boston Bruins']
+Roger Neilson,0.504,0.586,0.421,0.566,280,141,4,0,['New York Rangers']
+Dave Tippett,0.502,0.567,0.438,0.569,492,553,14,0,"['Dallas Stars', 'Phoenix Coyotes']"
+Tom Renney,0.501,0.559,0.446,0.572,327,164,5,0,['New York Rangers']
+John Tortorella,0.499,0.545,0.453,0.558,315,637,18,1,"['New York Rangers', 'Tampa Bay Lightning', 'Columbus Blue Jackets']"
+Darryl Sutter,0.498,0.555,0.44,0.568,216,634,18,2,"['Chicago Blackhawks', 'Los Angeles Kings', 'Calgary Flames', 'San Jose Sharks']"
+Todd McLellan,0.498,0.545,0.452,0.554,241,544,15,0,"['Los Angeles Kings', 'Edmonton Oilers', 'San Jose Sharks']"
+Art Ross,0.498,0.623,0.372,0.562,430,214,10,1,['Boston Bruins']
+Jimmy Skinner,0.498,0.61,0.387,0.591,247,123,4,1,['Detroit Red Wings']
+Lindy Ruff,0.497,0.546,0.447,0.563,328,736,19,0,"['Dallas Stars', 'Buffalo Sabres']"
+Mike Yeo,0.496,0.549,0.443,0.559,349,173,5,0,['Minnesota Wild']
+Dick Irvin,0.493,0.629,0.357,0.57,896,646,24,4,"['Montréal Canadiens', 'Toronto Maple Leafs']"
+Terry Murray,0.49,0.532,0.447,0.558,275,499,15,0,"['Los Angeles Kings', 'Philadelphia Flyers', 'Washington Capitals', 'Florida Panthers']"
+Todd Richards,0.488,0.504,0.473,0.529,260,127,5,0,['Columbus Blue Jackets']
+Bob Hartley,0.487,0.528,0.445,0.549,294,463,14,1,"['Calgary Flames', 'Colorado Avalanche', 'Atlanta Thrashers']"
+Jacques Lemaire,0.487,0.572,0.401,0.565,378,492,13,1,"['New Jersey Devils', 'Minnesota Wild']"
+Pat Quinn,0.484,0.544,0.424,0.553,574,654,18,0,"['Toronto Maple Leafs', 'Los Angeles Kings', 'Philadelphia Flyers', 'Vancouver Canucks']"
+Dave Hakstol,0.484,0.547,0.421,0.56,277,134,4,0,['Philadelphia Flyers']
+Terry Crisp,0.482,0.549,0.414,0.545,240,286,9,1,"['Calgary Flames', 'Tampa Bay Lightning']"
+Bob Johnson,0.482,0.57,0.395,0.547,400,193,5,0,['Calgary Flames']
+Brent Sutter,0.48,0.537,0.423,0.557,246,118,3,0,['Calgary Flames']
+Punch Imlach,0.48,0.595,0.366,0.562,760,365,11,4,['Toronto Maple Leafs']
+Tom Webster,0.479,0.558,0.4,0.544,240,115,3,0,['Los Angeles Kings']
+Pat Burns,0.477,0.549,0.405,0.557,320,412,12,0,"['Montréal Canadiens', 'Toronto Maple Leafs', 'Boston Bruins']"
+Paul MacLean,0.477,0.5,0.455,0.55,239,114,4,0,['Ottawa Senators']
+Peter DeBoer,0.476,0.508,0.444,0.543,248,415,12,0,"['New Jersey Devils', 'San Jose Sharks', 'Florida Panthers']"
+Hap Day,0.474,0.582,0.366,0.548,546,259,10,5,['Toronto Maple Leafs']
+Jacques Martin,0.47,0.53,0.41,0.548,692,451,12,0,"['Ottawa Senators', 'Florida Panthers']"
+Jack Capuano,0.47,0.47,0.47,0.536,483,227,7,0,['New York Islanders']
+Al Arbour,0.469,0.544,0.393,0.539,1038,739,19,4,"['New York Islanders', 'New York Islanders']"
+John Muckler,0.466,0.582,0.351,0.53,268,125,4,0,['Buffalo Sabres']
+Paul Maurice,0.465,0.524,0.405,0.531,674,699,22,0,"['Carolina Hurricanes', 'Carolina Hurricanes', 'Winnipeg Jets']"
+Lester Patrick,0.465,0.497,0.434,0.554,604,281,13,2,['New York Rangers']
+Orval Tessier,0.465,0.623,0.308,0.514,213,99,3,0,['Chicago Blackhawks']
+Ted Sator,0.464,0.547,0.376,0.517,207,96,3,0,['Buffalo Sabres']
+Joe Primeau,0.462,0.533,0.391,0.562,210,97,3,1,['Toronto Maple Leafs']
+David Quinn,0.462,0.476,0.447,0.522,208,96,3,0,['New York Rangers']
+Herb Brooks,0.46,0.538,0.379,0.532,285,131,4,0,['New York Rangers']
+Harry Sinden,0.46,0.595,0.324,0.552,296,136,4,1,['Boston Bruins']
+Craig MacTavish,0.459,0.512,0.406,0.537,656,301,8,0,['Edmonton Oilers']
+Ron Wilson,0.457,0.503,0.411,0.525,310,648,18,0,"['Toronto Maple Leafs', 'Washington Capitals', 'San Jose Sharks', 'Anaheim Ducks']"
+Michel Bergeron,0.457,0.557,0.354,0.528,554,253,7,0,['Quebec Nordiques']
+John Stevens,0.456,0.467,0.445,0.521,263,120,4,0,['Philadelphia Flyers']
+Jim Schoenfeld,0.454,0.5,0.406,0.522,249,113,4,0,['Washington Capitals']
+Andy Murray,0.453,0.49,0.415,0.536,480,333,10,0,"['Los Angeles Kings', 'St. Louis Blues']"
+Jacques Demers,0.452,0.567,0.337,0.516,220,350,11,1,"['Montréal Canadiens', 'Detroit Red Wings', 'St. Louis Blues']"
+Bob Pulford,0.45,0.54,0.359,0.535,396,178,5,0,['Los Angeles Kings']
+Fred Creighton,0.448,0.54,0.355,0.529,348,156,5,0,['Atlanta Flames']
+Bob Berry,0.444,0.514,0.374,0.516,223,311,9,0,"['Montréal Canadiens', 'Los Angeles Kings', 'Pittsburgh Penguins']"
+Dit Clapper,0.444,0.556,0.33,0.53,230,102,4,0,['Boston Bruins']
+Willie Desjardins,0.443,0.463,0.423,0.498,246,109,3,0,['Vancouver Canucks']
+Joe Sacco,0.442,0.503,0.381,0.493,294,130,4,0,['Colorado Avalanche']
+Eddie Johnston,0.442,0.573,0.312,0.501,240,232,7,0,"['Pittsburgh Penguins', 'Pittsburgh Penguins']"
+Glen Sonmor,0.44,0.554,0.328,0.543,352,155,5,0,['Minnesota North Stars']
+Brian Sutter,0.439,0.516,0.363,0.517,216,451,13,0,"['Boston Bruins', 'Chicago Blackhawks', 'St. Louis Blues', 'Calgary Flames']"
+Colin Campbell,0.439,0.474,0.403,0.519,269,118,4,0,['New York Rangers']
+Wayne Gretzky,0.436,0.469,0.402,0.473,328,143,4,0,['Phoenix Coyotes']
+Rick Tocchet,0.431,0.455,0.408,0.49,290,125,4,0,['Arizona Coyotes']
+Al MacNeil,0.429,0.525,0.333,0.521,240,103,3,0,['Calgary Flames']
+Dan Maloney,0.429,0.523,0.333,0.495,212,91,3,0,['Winnipeg Jets (1979)']
+Jack Adams,0.428,0.558,0.299,0.512,964,413,20,3,['Detroit Red Wings']
+Pierre Page,0.426,0.5,0.353,0.489,230,98,3,0,['Quebec Nordiques']
+John Hynes,0.424,0.461,0.386,0.487,354,150,5,0,['New Jersey Devils']
+Barry Long,0.424,0.48,0.369,0.485,205,87,3,0,['Winnipeg Jets (1979)']
+Travis Green,0.424,0.474,0.373,0.478,314,133,5,0,['Vancouver Canucks']
+Jeremy Colliton,0.424,0.451,0.398,0.488,205,87,4,0,['Chicago Blackhawks']
+Bob Francis,0.423,0.5,0.347,0.527,390,165,5,0,['Phoenix Coyotes']
+Craig Hartsburg,0.423,0.423,0.423,0.504,246,104,3,0,['Chicago Blackhawks']
+Rudy Pilous,0.419,0.508,0.33,0.514,387,162,6,1,['Chicago Blackhawks']
+Bill Peters,0.418,0.482,0.354,0.498,328,137,4,0,['Carolina Hurricanes']
+Guy Boucher,0.412,0.452,0.372,0.469,228,94,3,0,['Ottawa Senators']
+Sid Abel,0.41,0.539,0.28,0.489,737,302,11,0,['Detroit Red Wings']
+Dave King,0.409,0.505,0.312,0.487,216,173,6,0,"['Calgary Flames', 'Columbus Blue Jackets']"
+Phil Maloney,0.409,0.496,0.325,0.478,232,95,4,0,['Vancouver Canucks']
+Ron Low,0.408,0.441,0.374,0.466,341,139,5,0,['Edmonton Oilers']
+John McLellan,0.406,0.535,0.277,0.479,310,126,4,0,['Toronto Maple Leafs']
+Paul Holmgren,0.405,0.47,0.341,0.464,264,107,4,0,['Philadelphia Flyers']
+Phil Watson,0.403,0.442,0.365,0.491,295,119,5,0,['New York Rangers']
+Jack Gordon,0.401,0.535,0.269,0.488,289,116,5,0,['Minnesota North Stars']
+Bob Gainey,0.398,0.467,0.327,0.47,415,165,6,0,['Dallas Stars']
+D.J. Smith,0.395,0.451,0.336,0.45,238,94,4,0,['Ottawa Senators']
+King Clancy,0.381,0.524,0.238,0.498,210,80,3,0,['Toronto Maple Leafs']
+Jeff Blashill,0.38,0.422,0.337,0.447,537,204,7,0,['Detroit Red Wings']
+Johnny Wilson,0.379,0.492,0.267,0.471,240,91,3,0,['Pittsburgh Penguins']
+Barry Melrose,0.378,0.433,0.324,0.447,209,79,3,0,['Los Angeles Kings']
+John Paddock,0.377,0.45,0.305,0.443,281,106,4,0,['Winnipeg Jets (1979)']
+Lynn Patrick,0.377,0.484,0.271,0.479,310,117,5,0,['Boston Bruins']
+Red Kelly,0.373,0.494,0.254,0.47,318,223,8,0,"['Toronto Maple Leafs', 'Pittsburgh Penguins']"
+Larry Robinson,0.372,0.451,0.293,0.441,328,122,4,0,['Los Angeles Kings']
+Jack Evans,0.372,0.437,0.307,0.435,240,237,8,0,"['Cleveland Barons', 'Hartford Whalers']"
+Bernie Geoffrion,0.37,0.471,0.274,0.464,208,77,3,0,['Atlanta Flames']
+Paul Thompson,0.361,0.497,0.224,0.436,313,113,7,0,['Chicago Blackhawks']
+Dallas Eakins,0.354,0.376,0.333,0.427,240,85,4,0,['Anaheim Ducks']
+Bob McCammon,0.347,0.395,0.299,0.408,294,102,4,0,['Vancouver Canucks']
+Doug Carpenter,0.345,0.441,0.248,0.386,290,100,4,0,['New Jersey Devils']
+Frank Boucher,0.343,0.403,0.283,0.422,487,167,10,1,['New York Rangers']
+Bobby Kromm,0.342,0.431,0.252,0.431,231,79,3,0,['Detroit Red Wings']
+Harry Neale,0.337,0.404,0.27,0.44,315,106,4,0,['Vancouver Canucks']
+Alex Delvecchio,0.335,0.464,0.2,0.4,245,82,4,0,['Detroit Red Wings']
+Nick Polano,0.329,0.425,0.233,0.4,240,79,3,0,['Detroit Red Wings']
+Glen Hanlon,0.326,0.369,0.282,0.406,239,78,4,0,['Washington Capitals']
+Milt Schmidt,0.324,0.423,0.226,0.404,460,245,11,0,"['Boston Bruins', 'Boston Bruins']"
+Mike Nykoluk,0.318,0.407,0.229,0.402,280,89,4,0,['Toronto Maple Leafs']
+Fred Glover,0.27,0.388,0.152,0.344,355,96,6,0,['Oakland Seals']
+Tom McVie,0.24,0.314,0.167,0.321,204,49,3,0,['Washington Capitals']
+Curt Fraser,0.229,0.259,0.2,0.312,279,64,4,0,['Atlanta Thrashers']
+Rick Bowness,0.166,0.209,0.125,0.204,235,39,4,0,['Ottawa Senators']

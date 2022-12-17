@@ -1,79 +1,50 @@
 Coach,Team,Win %,Home Win %,Road Win %,Points %,Wins,Seasons,Stanley Cups
-Jim Montgomery,Boston Bruins,0.857,1.0,0.667,0.857,18,1,0
-Bruce Cassidy,Vegas Golden Knights,0.696,0.583,0.818,0.717,16,1,0
-Lane Lambert,New York Islanders,0.652,0.727,0.583,0.652,15,1,0
-Rick Bowness,Winnipeg Jets,0.632,0.778,0.5,0.658,12,1,0
-Jay Woodcroft,Edmonton Oilers,0.627,0.7,0.552,0.652,37,2,0
-Sheldon Keefe,Toronto Maple Leafs,0.62,0.667,0.576,0.678,129,4,0
-Dean Evason,Minnesota Wild,0.618,0.682,0.553,0.659,105,4,0
-Bruce Cassidy,Boston Bruins,0.614,0.663,0.564,0.672,245,6,0
-Peter DeBoer,Vegas Golden Knights,0.613,0.646,0.58,0.65,98,3,0
-Bruce Boudreau,Washington Capitals,0.611,0.681,0.54,0.672,201,5,0
-Jon Cooper,Tampa Bay Lightning,0.607,0.67,0.543,0.649,446,11,2
-Rod Brind'Amour,Carolina Hurricanes,0.597,0.638,0.557,0.65,185,5,0
-Gerard Gallant,New York Rangers,0.596,0.596,0.596,0.644,62,2,0
-Bruce Boudreau,Anaheim Ducks,0.591,0.64,0.542,0.648,208,5,0
-Mike Sullivan,Pittsburgh Penguins,0.582,0.664,0.502,0.636,308,8,2
-Todd McLellan,San Jose Sharks,0.576,0.648,0.504,0.637,311,7,0
-Craig Berube,St. Louis Blues,0.57,0.599,0.543,0.631,167,5,1
-Darryl Sutter,Calgary Flames,0.556,0.586,0.524,0.609,74,3,0
-Gerard Gallant,Vegas Golden Knights,0.554,0.615,0.49,0.601,118,3,0
-Peter Laviolette,Washington Capitals,0.553,0.531,0.575,0.615,89,3,0
-Peter Laviolette,Nashville Predators,0.55,0.611,0.489,0.616,248,6,0
-Derek Lalonde,Detroit Red Wings,0.55,0.636,0.444,0.65,11,1,0
-Peter DeBoer,San Jose Sharks,0.548,0.572,0.525,0.596,198,5,0
-Peter DeBoer,Dallas Stars,0.545,0.6,0.5,0.636,12,1,0
-John Tortorella,New York Rangers,0.543,0.567,0.519,0.589,171,5,0
-John Hynes,Nashville Predators,0.543,0.596,0.489,0.575,101,4,0
-Peter Laviolette,Philadelphia Flyers,0.533,0.56,0.507,0.586,145,5,0
-Jared Bednar,Colorado Avalanche,0.533,0.594,0.473,0.583,252,7,1
-Jim Montgomery,Dallas Stars,0.531,0.614,0.446,0.575,60,2,0
-Darryl Sutter,Los Angeles Kings,0.529,0.616,0.444,0.592,225,6,2
-Paul Maurice,Winnipeg Jets,0.525,0.563,0.487,0.577,315,9,0
-Bruce Boudreau,Minnesota Wild,0.521,0.569,0.473,0.579,158,4,0
-Peter Laviolette,Carolina Hurricanes,0.517,0.552,0.481,0.57,167,5,1
-Gerard Gallant,Florida Panthers,0.516,0.57,0.462,0.583,96,3,0
-Bruce Boudreau,Vancouver Canucks,0.513,0.526,0.5,0.596,40,2,0
-Darryl Sutter,Chicago Blackhawks,0.509,0.528,0.491,0.569,110,3,0
-Darryl Sutter,Calgary Flames,0.509,0.589,0.427,0.581,107,3,0
-John Tortorella,Columbus Blue Jackets,0.508,0.558,0.457,0.568,227,6,0
-Rick Bowness,Dallas Stars,0.506,0.552,0.461,0.577,89,3,0
-Lindy Ruff,Dallas Stars,0.503,0.549,0.457,0.566,165,4,0
-Lindy Ruff,Buffalo Sabres,0.49,0.544,0.436,0.56,571,15,0
-Dave Hakstol,Philadelphia Flyers,0.484,0.547,0.421,0.56,134,4,0
-Paul Maurice,Florida Panthers,0.476,0.545,0.4,0.548,10,1,0
-Paul Maurice,Carolina Hurricanes,0.471,0.553,0.39,0.532,116,4,0
-Peter Laviolette,New York Islanders,0.469,0.476,0.463,0.546,77,2,0
-Craig Berube,Philadelphia Flyers,0.466,0.58,0.35,0.553,75,2,0
-Paul Maurice,Toronto Maple Leafs,0.463,0.476,0.451,0.53,76,2,0
-Todd McLellan,Edmonton Oilers,0.462,0.508,0.418,0.507,123,4,0
-David Quinn,New York Rangers,0.462,0.476,0.447,0.522,96,3,0
-Peter DeBoer,New Jersey Devils,0.46,0.512,0.409,0.542,114,4,0
-Todd McLellan,Los Angeles Kings,0.459,0.487,0.432,0.515,106,4,0
-Rick Bowness,Boston Bruins,0.45,0.575,0.325,0.525,36,1,0
-John Tortorella,Tampa Bay Lightning,0.447,0.509,0.384,0.516,239,7,1
-Darryl Sutter,San Jose Sharks,0.442,0.486,0.4,0.529,192,6,0
-John Tortorella,Vancouver Canucks,0.439,0.488,0.39,0.506,36,1,0
-Brad Larsen,Columbus Blue Jackets,0.431,0.491,0.362,0.471,44,2,0
-Martin St. Louis,Montréal Canadiens,0.431,0.375,0.5,0.474,25,2,0
-Bruce Cassidy,Washington Capitals,0.427,0.529,0.339,0.5,47,2,0
-Mike Sullivan,Boston Bruins,0.427,0.415,0.439,0.543,70,2,0
-John Hynes,New Jersey Devils,0.424,0.461,0.386,0.487,150,5,0
-Peter DeBoer,Florida Panthers,0.419,0.439,0.398,0.492,103,3,0
-Lindy Ruff,New Jersey Devils,0.4,0.395,0.405,0.45,64,3,0
-Paul Maurice,Hartford Whalers,0.398,0.457,0.339,0.483,268,9,0
-Gerard Gallant,Columbus Blue Jackets,0.394,0.515,0.284,0.43,56,3,0
-D.J. Smith,Ottawa Senators,0.384,0.444,0.321,0.439,88,4,0
-Don Granato,Buffalo Sabres,0.382,0.418,0.344,0.435,50,3,0
-Dave Hakstol,Seattle Kraken,0.382,0.415,0.347,0.426,39,2,0
-Rick Bowness,New York Islanders,0.374,0.42,0.327,0.434,37,2,0
-Dallas Eakins,Anaheim Ducks,0.361,0.377,0.345,0.433,83,4,0
-Dallas Eakins,Edmonton Oilers,0.319,0.362,0.273,0.381,36,2,0
-John Tortorella,Philadelphia Flyers,0.318,0.4,0.25,0.432,7,1,0
-André Tourigny,Arizona Coyotes,0.317,0.267,0.357,0.366,32,2,0
-David Quinn,San Jose Sharks,0.304,0.154,0.5,0.37,7,1,0
-Luke Richardson,Chicago Blackhawks,0.3,0.364,0.222,0.4,6,1,0
-Rick Bowness,Winnipeg Jets (1979),0.286,0.462,0.133,0.339,8,1,0
-Rick Bowness,Ottawa Senators,0.166,0.209,0.125,0.204,39,4,0
-Rick Bowness,Phoenix Coyotes,0.1,0.091,0.111,0.25,2,1,0
-John Tortorella,New York Rangers,0.0,,,0.125,0,1,0
+Peter Laviolette,Carolina Hurricanes,0.64,0.714,0.545,0.64,16,1,1
+Jared Bednar,Colorado Avalanche,0.635,0.656,0.613,0.643,40,5,1
+Darryl Sutter,Los Angeles Kings,0.609,0.667,0.556,0.609,42,4,2
+Jon Cooper,Tampa Bay Lightning,0.604,0.589,0.621,0.604,84,8,2
+Gerard Gallant,Vegas Golden Knights,0.593,0.692,0.5,0.593,16,2,0
+Peter DeBoer,New Jersey Devils,0.583,0.636,0.538,0.583,14,1,0
+Lindy Ruff,Buffalo Sabres,0.564,0.612,0.519,0.564,57,8,0
+Peter DeBoer,Vegas Golden Knights,0.564,0.619,0.5,0.564,22,2,0
+Bruce Boudreau,Anaheim Ducks,0.558,0.583,0.526,0.558,24,4,0
+Darryl Sutter,Calgary Flames,0.545,0.438,0.647,0.545,18,2,0
+Jim Montgomery,Dallas Stars,0.538,0.5,0.571,0.538,7,1,0
+Todd McLellan,Edmonton Oilers,0.538,0.5,0.571,0.538,7,1,0
+Mike Sullivan,Pittsburgh Penguins,0.537,0.595,0.475,0.537,44,7,2
+Rick Bowness,Boston Bruins,0.533,0.5,0.571,0.533,8,1,0
+Peter DeBoer,San Jose Sharks,0.533,0.613,0.448,0.533,32,4,0
+John Tortorella,Tampa Bay Lightning,0.533,0.522,0.545,0.533,24,4,1
+Rick Bowness,Dallas Stars,0.529,0.467,0.579,0.529,18,2,0
+Peter Laviolette,Nashville Predators,0.525,0.633,0.419,0.525,32,5,0
+Peter Laviolette,Philadelphia Flyers,0.511,0.609,0.409,0.511,23,3,0
+Jay Woodcroft,Edmonton Oilers,0.5,0.5,0.5,0.5,8,1,0
+Gerard Gallant,New York Rangers,0.5,0.8,0.2,0.5,10,1,0
+Rod Brind'Amour,Carolina Hurricanes,0.5,0.68,0.304,0.5,24,4,0
+Bruce Cassidy,Boston Bruins,0.493,0.486,0.5,0.493,36,6,0
+Paul Maurice,Carolina Hurricanes,0.486,0.471,0.5,0.486,17,3,0
+Todd McLellan,San Jose Sharks,0.484,0.581,0.387,0.484,30,6,0
+Lindy Ruff,Dallas Stars,0.474,0.5,0.444,0.474,9,2,0
+Craig Berube,St. Louis Blues,0.471,0.308,0.64,0.48,24,4,1
+Bruce Boudreau,Washington Capitals,0.46,0.476,0.438,0.46,17,4,0
+Paul Maurice,Carolina Hurricanes,0.444,0.5,0.4,0.444,8,1,0
+John Tortorella,New York Rangers,0.432,0.571,0.304,0.432,19,4,0
+Mike Sullivan,Boston Bruins,0.429,0.5,0.333,0.429,3,1,0
+Darryl Sutter,San Jose Sharks,0.429,0.45,0.409,0.429,18,5,0
+Todd McLellan,Los Angeles Kings,0.429,0.333,0.5,0.429,3,1,0
+Craig Berube,Philadelphia Flyers,0.429,0.667,0.25,0.429,3,1,0
+Darryl Sutter,Chicago Blackhawks,0.423,0.538,0.308,0.423,11,3,0
+Sheldon Keefe,Toronto Maple Leafs,0.421,0.364,0.5,0.421,8,3,0
+John Tortorella,Columbus Blue Jackets,0.419,0.357,0.471,0.419,13,4,0
+Darryl Sutter,Calgary Flames,0.417,0.571,0.2,0.417,5,1,0
+Paul Maurice,Winnipeg Jets,0.41,0.35,0.474,0.41,16,5,0
+Dean Evason,Minnesota Wild,0.353,0.25,0.444,0.353,6,3,0
+Dave Hakstol,Philadelphia Flyers,0.333,0.167,0.5,0.333,4,2,0
+Bruce Cassidy,Washington Capitals,0.333,,0.667,0.333,2,1,0
+Peter Laviolette,New York Islanders,0.333,0.6,0.143,0.333,4,2,0
+Gerard Gallant,Florida Panthers,0.333,0.333,0.333,0.333,2,1,0
+Peter Laviolette,Washington Capitals,0.273,0.333,0.2,0.273,3,2,0
+John Hynes,Nashville Predators,0.214,0.429,,0.214,3,3,0
+John Hynes,New Jersey Devils,0.2,0.5,,0.2,1,1,0
+Bruce Boudreau,Minnesota Wild,0.2,0.2,0.2,0.2,2,2,0
+David Quinn,New York Rangers,0.0,,,,0,1,0

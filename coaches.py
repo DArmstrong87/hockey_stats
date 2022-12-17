@@ -8,7 +8,7 @@ GAME_TYPES = [
 SORT_BY = 'winPctg'
 
 def get_coaches(id):
-    request = requests.get(f"https://records.nhl.com/site/api/coach-franchise-records?cayenneExp=gameTypeId={id}&include=coach.id")
+    request = requests.get(f"https://records.nhl.com/site/api/coach-franchise-records?cayenneExp=gameTypeId=3&include=coach.id&sort=winPctg&dir=DESC")
     request = json.loads(request.text)
     return request['data']
 
@@ -19,9 +19,14 @@ def rank_coaches(type):
                     "list": [c for c in COACHES if c['activeCoach']]}
     coaches_all_time = {"file_name": f"csv/coach/coaches_all_time_{type['name']}.csv",
                         "list": [c for c in COACHES]}
+    coaches_all_time_200 = {"file_name": f"csv/coach/coaches_all_time_200_{type['name']}.csv",
+                        "list": [c for c in COACHES if c['games'] >= 200]}
+    coaches_all_time_3_seasons = {"file_name": f"csv/coach/coaches_all_time_3_seasons_{type['name']}.csv",
+                        "list": [c for c in COACHES]}
     percentages_with_cup = []
 
-    for coach_list in [coaches_active, coaches_all_time]:
+    for coach_list in [
+                       coaches_all_time_3_seasons]:
         file_name = coach_list['file_name']
         coach_list = coach_list['list']
         unique_coaches = []
@@ -46,6 +51,7 @@ def rank_coaches(type):
                 'coachName': name,
                 'stanleyCups': cups,
                 'teams': teams,
+                'games': coach['games'],
                 'winPctg': round(winPctg, 3),
                 'homeWinPctg': round(homeWinPctg, 3),
                 'roadWinPctg': round(roadWinPctg, 3),
@@ -54,24 +60,27 @@ def rank_coaches(type):
                 'wins': wins
             }
 
-            if name not in [c['coachName'] for c in unique_coaches]:
+            if name not in [c['coachName'] for c in unique_coaches] and seasons >= 3:
                 unique_coaches.append(unique_coach)
 
         sorted_win_pctg = sorted(unique_coaches, key=lambda c: c[SORT_BY], reverse=True)
         num_coaches = len(sorted_win_pctg)
         coaches_with_cup = len([c for c in unique_coaches if c['stanleyCups'] > 0])
-        percentages_with_cup.append(round(coaches_with_cup / num_coaches * 100, 2))
+
+        if num_coaches > 0:
+            percentages_with_cup.append(round(coaches_with_cup / num_coaches * 100, 2))
 
         with open(f'{file_name}', 'w', newline='') as file:
             writer = csv.writer(file, delimiter=',')
             writer.writerow(['Coach', 'Win %', 'Home Win %',
-                            'Road Win %', 'Points %', 'Wins', 'Seasons', 'Stanley Cups', 'Teams'])
+                            'Road Win %', 'Points %', 'Games', 'Wins', 'Seasons', 'Stanley Cups', 'Teams'])
             for c in sorted_win_pctg:
                 writer.writerow([c['coachName'],
                                 c['winPctg'],
                                 c['homeWinPctg'],
                                 c['roadWinPctg'],
                                 c['pointPctg'],
+                                c['games'],
                                 c['wins'],
                                 c['seasons'],
                                 c['stanleyCups'],

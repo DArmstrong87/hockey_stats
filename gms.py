@@ -6,9 +6,9 @@ GAME_TYPES = [
 ]
 
 def get_gms(id): 
-    request = requests.get(f'https://records.nhl.com/site/api/general-manager-franchise-records?cayenneExp=gameTypeId={id}&include=generalManager.id')
-    request = json.loads(request.text)
-    return request['data']
+    response = requests.get(f'https://records.nhl.com/site/api/general-manager-franchise-records?cayenneExp=gameTypeId={id}&include=generalManager.id')
+    response = json.loads(response.text)
+    return response['data']
 
 SORT_BY = 'winPctg'
 
@@ -17,10 +17,12 @@ def rank_gms(type):
     gms_active = {"file_name": f"csv/gm/gms_active_{type['name']}.csv",
                     "list": [gm for gm in GMS if gm['activeGm']]}
     gms_all_time = {"file_name": f"csv/gm/gms_all_time_{type['name']}.csv",
-                        "list": [gm for gm in GMS if gm['seasons'] > 1]}
-    percentages_with_cup = []
+                        "list": [gm for gm in GMS]}
+    gms_all_time_5_seasons = {"file_name": f"csv/gm/gms_all_time_5_season_{type['name']}.csv",
+                        "list": [gm for gm in GMS if gm['seasons'] >= 5]}
 
-    for gm_list in [gms_active, gms_all_time]:
+    percentages_with_cup = []
+    for gm_list in [gms_active, gms_all_time, gms_all_time_5_seasons]:
         file_name = gm_list['file_name']
         gm_list = gm_list['list']
         unique_gms = []
@@ -37,11 +39,10 @@ def rank_gms(type):
             winPctg = sum([gm['winPctg'] for gm in gm_stats]) / num
             home_games = sum([gm['homeGames'] for gm in gm_stats])
             home_wins = sum([gm['homeWins'] for gm in gm_stats])
-            homeWinPctg = home_wins / home_games
+            homeWinPctg = home_wins / home_games if home_games > 0 else 0
             road_games = sum([gm['roadGames'] for gm in gm_stats])
             road_wins = sum([gm['roadWins'] for gm in gm_stats])
-            roadWinPctg = road_wins / road_games
-
+            roadWinPctg = road_wins / road_games if road_games > 0 else 0
             pointPctg = sum([gm['pointPctg'] for gm in gm_stats if gm['pointPctg']]) / num
 
             teams = [gm['teamName'] for gm in gm_list if name == gm['fullName']]
@@ -96,7 +97,7 @@ def rank_gms_team(type):
     gms_active_team = {"file_name": f"csv/gm/gms_active_team_{type['name']}.csv",
                     "list": [gm for gm in GMS if gm['activeGm']]}
     gms_all_time_team = {"file_name": f"csv/gm/gms_all_time_team_{type['name']}.csv",
-                        "list": [gm for gm in GMS if gm['seasons'] > 1]}
+                        "list": [gm for gm in GMS if gm['seasons'] >= 1]}
 
     for gm_list in [gms_active_team, gms_all_time_team]:
         file_name = gm_list['file_name']

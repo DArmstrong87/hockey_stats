@@ -2,8 +2,8 @@ Coach,Team,Win %,Home Win %,Road Win %,Points %,Wins,Seasons,Stanley Cups
 Claude Ruel,Montréal Canadiens,0.857,1.0,0.714,0.857,12,1,1
 Leo Dandurand,Montréal Canadiens,0.75,1.0,0.5,0.75,9,2,1
 Tommy Gorman,Chicago Blackhawks,0.75,0.5,1.0,0.812,6,1,1
-Mike Babcock,Anaheim Ducks,0.714,0.9,0.545,0.714,15,1,0
 Scotty Bowman,Montréal Canadiens,0.714,0.769,0.652,0.714,70,8,5
+Mike Babcock,Anaheim Ducks,0.714,0.9,0.545,0.714,15,1,0
 Glen Sather,Edmonton Oilers,0.706,0.771,0.625,0.706,89,10,4
 Jacques Demers,Montréal Canadiens,0.704,0.786,0.615,0.704,19,2,1
 Bill Stewart,Chicago Blackhawks,0.7,1.0,0.5,0.7,7,1,1
@@ -20,9 +20,9 @@ Peter Laviolette,Carolina Hurricanes,0.64,0.714,0.545,0.64,16,1,1
 Al Arbour,New York Islanders,0.637,0.753,0.523,0.637,109,12,4
 Gene Ubriaco,Pittsburgh Penguins,0.636,0.667,0.6,0.636,7,1,0
 Jared Bednar,Colorado Avalanche,0.635,0.656,0.613,0.643,40,5,1
-Alain Vigneault,Philadelphia Flyers,0.625,0.5,0.75,0.625,10,1,0
-John Muckler,Edmonton Oilers,0.625,0.7,0.55,0.625,25,2,1
 Jean Perron,Montréal Canadiens,0.625,0.654,0.591,0.625,30,3,1
+John Muckler,Edmonton Oilers,0.625,0.7,0.55,0.625,25,2,1
+Alain Vigneault,Philadelphia Flyers,0.625,0.5,0.75,0.625,10,1,0
 Bob Hartley,Colorado Avalanche,0.613,0.619,0.605,0.613,49,4,1
 Hap Day,Toronto Maple Leafs,0.613,0.615,0.61,0.613,49,9,5
 Guy Boucher,Tampa Bay Lightning,0.611,0.625,0.6,0.611,11,1,0
@@ -30,65 +30,65 @@ Darryl Sutter,Los Angeles Kings,0.609,0.667,0.556,0.609,42,4,2
 Terry Murray,Philadelphia Flyers,0.609,0.583,0.636,0.609,28,3,0
 Jacques Lemaire,New Jersey Devils,0.607,0.607,0.607,0.607,34,4,1
 Jon Cooper,Tampa Bay Lightning,0.604,0.589,0.621,0.604,84,8,2
+Dan Maloney,Toronto Maple Leafs,0.6,0.75,0.5,0.6,6,1,0
 Al MacNeil,Montréal Canadiens,0.6,0.778,0.455,0.6,12,1,1
 Michel Therrien,Pittsburgh Penguins,0.6,0.692,0.5,0.6,15,2,0
-Dan Maloney,Toronto Maple Leafs,0.6,0.75,0.5,0.6,6,1,0
-Marc Crawford,Quebec Nordiques,0.596,0.704,0.48,0.596,31,4,1
+Marc Crawford,Colorado Avalanche,0.596,0.704,0.48,0.596,31,4,1
 Terry Crisp,Calgary Flames,0.595,0.7,0.471,0.595,22,3,1
 Joel Quenneville,Chicago Blackhawks,0.594,0.703,0.484,0.594,76,9,3
 Gerard Gallant,Vegas Golden Knights,0.593,0.692,0.5,0.593,16,2,0
-Pete Green,Ottawa Senators (1917),0.591,0.5,0.643,0.614,13,5,3
 Dominique Ducharme,Montréal Canadiens,0.591,0.6,0.583,0.591,13,1,0
+Pete Green,Ottawa Senators (1917),0.591,0.5,0.643,0.614,13,5,3
+Travis Green,Vancouver Canucks,0.588,0.375,0.778,0.588,10,1,0
+Cooney Weiland,Boston Bruins,0.588,0.667,0.5,0.588,10,2,1
 Claude Julien,Boston Bruins,0.588,0.654,0.511,0.588,57,7,1
 Ken Hitchcock,Dallas Stars,0.588,0.651,0.513,0.588,47,5,1
-Cooney Weiland,Boston Bruins,0.588,0.667,0.5,0.588,10,2,1
-Travis Green,Vancouver Canucks,0.588,0.375,0.778,0.588,10,1,0
 Pat Burns,New Jersey Devils,0.586,0.867,0.286,0.586,17,2,1
+Lynn Patrick,New York Rangers,0.583,0.75,0.5,0.583,7,1,0
 Peter DeBoer,New Jersey Devils,0.583,0.636,0.538,0.583,14,1,0
 Newsy Lalonde,Montréal Canadiens,0.583,1.0,0.375,0.625,7,2,0
-Lynn Patrick,New York Rangers,0.583,0.75,0.5,0.583,7,1,0
 Randy Carlyle,Anaheim Ducks,0.581,0.625,0.533,0.581,36,5,1
 Guy Boucher,Ottawa Senators,0.579,0.667,0.5,0.579,11,1,0
 Fred Shero,Philadelphia Flyers,0.578,0.721,0.425,0.578,48,6,2
 Mike Milbury,Boston Bruins,0.575,0.682,0.444,0.575,23,2,0
+George O'Donoghue,Toronto St. Patricks,0.571,0.667,,0.643,4,1,1
+Dick Carroll,Toronto Arenas,0.571,0.667,,0.571,4,1,1
+Roger Neilson,Vancouver Canucks,0.571,0.636,0.5,0.571,12,2,0
 Barry Trotz,New York Islanders,0.571,0.609,0.538,0.571,28,3,0
 Barry Trotz,Washington Capitals,0.571,0.581,0.562,0.571,36,4,1
-Roger Neilson,Vancouver Canucks,0.571,0.636,0.5,0.571,12,2,0
-Dick Carroll,Toronto Arenas,0.571,0.667,,0.571,4,1,1
-George O'Donoghue,Toronto St. Patricks,0.571,0.667,,0.643,4,1,1
 Lindy Ruff,Buffalo Sabres,0.564,0.612,0.519,0.564,57,8,0
 Pat Quinn,Philadelphia Flyers,0.564,0.696,0.375,0.564,22,3,0
 Peter DeBoer,Vegas Golden Knights,0.564,0.619,0.5,0.564,22,2,0
 Don Cherry,Boston Bruins,0.564,0.714,0.407,0.564,31,5,0
 Mike Keenan,Philadelphia Flyers,0.561,0.621,0.5,0.561,32,4,0
 Bruce Boudreau,Anaheim Ducks,0.558,0.583,0.526,0.558,24,4,0
-Jacques Lemaire,Montréal Canadiens,0.556,0.571,0.538,0.556,15,2,0
 Marc Boileau,Pittsburgh Penguins,0.556,0.6,0.5,0.556,5,1,0
-Dick Irvin,Chicago Blackhawks,0.556,0.75,0.4,0.611,5,1,0
+Jacques Lemaire,Montréal Canadiens,0.556,0.571,0.538,0.556,15,2,0
 Fred Shero,New York Rangers,0.556,0.667,0.467,0.556,15,2,0
 Glen Sonmor,Minnesota North Stars,0.556,0.25,0.8,0.556,5,1,0
+Dick Irvin,Chicago Blackhawks,0.556,0.75,0.4,0.611,5,1,0
 Glen Sonmor,Minnesota North Stars,0.553,0.529,0.571,0.553,21,3,0
 Dan Bylsma,Pittsburgh Penguins,0.551,0.55,0.553,0.551,43,6,1
 Jim Schoenfeld,New Jersey Devils,0.55,0.556,0.545,0.55,11,1,0
 Mike Keenan,Chicago Blackhawks,0.55,0.633,0.467,0.55,33,4,0
 Darryl Sutter,Calgary Flames,0.545,0.438,0.647,0.545,18,2,0
 Herb Brooks,Pittsburgh Penguins,0.545,0.4,0.667,0.545,6,1,0
-Mike Babcock,Detroit Red Wings,0.545,0.644,0.453,0.545,67,10,1
 Mike Yeo,St. Louis Blues,0.545,0.6,0.5,0.545,6,1,0
+Mike Babcock,Detroit Red Wings,0.545,0.644,0.453,0.545,67,10,1
 Barry Melrose,Los Angeles Kings,0.542,0.545,0.538,0.542,13,1,0
 Dick Irvin,Montréal Canadiens,0.539,0.672,0.404,0.539,62,14,3
+Jim Montgomery,Dallas Stars,0.538,0.5,0.571,0.538,7,1,0
 Ron Wilson,San Jose Sharks,0.538,0.615,0.462,0.538,28,4,0
 Todd McLellan,Edmonton Oilers,0.538,0.5,0.571,0.538,7,1,0
 Jimmy Skinner,Detroit Red Wings,0.538,0.786,0.25,0.538,14,3,1
-Jim Montgomery,Dallas Stars,0.538,0.5,0.571,0.538,7,1,0
-Mike Sullivan,Pittsburgh Penguins,0.537,0.595,0.475,0.537,44,7,2
 Tommy Ivan,Detroit Red Wings,0.537,0.568,0.5,0.537,36,7,3
+Mike Sullivan,Pittsburgh Penguins,0.537,0.595,0.475,0.537,44,7,2
 Pat Burns,Montréal Canadiens,0.536,0.679,0.393,0.536,30,4,0
 Bob Pulford,Chicago Blackhawks,0.533,0.625,0.429,0.533,8,1,0
-John Tortorella,Tampa Bay Lightning,0.533,0.522,0.545,0.533,24,4,1
 Rick Bowness,Boston Bruins,0.533,0.5,0.571,0.533,8,1,0
-Peter DeBoer,San Jose Sharks,0.533,0.613,0.448,0.533,32,4,0
 Joe Primeau,Toronto Maple Leafs,0.533,0.375,0.714,0.567,8,2,1
+Peter DeBoer,San Jose Sharks,0.533,0.613,0.448,0.533,32,4,0
+John Tortorella,Tampa Bay Lightning,0.533,0.522,0.545,0.533,24,4,1
 Bryan Murray,Ottawa Senators,0.529,0.471,0.588,0.529,18,3,0
 Rick Bowness,Dallas Stars,0.529,0.467,0.579,0.529,18,2,0
 Craig MacTavish,Edmonton Oilers,0.528,0.588,0.474,0.528,19,3,0
@@ -98,45 +98,45 @@ Eddie Gerard,Montreal Maroons,0.526,0.429,0.8,0.632,10,3,1
 Paul Holmgren,Philadelphia Flyers,0.526,0.444,0.6,0.526,10,1,0
 Peter Laviolette,Nashville Predators,0.525,0.633,0.419,0.525,32,5,0
 Bep Guidolin,Boston Bruins,0.524,0.545,0.5,0.524,11,2,0
-Bob Gainey,Minnesota North Stars,0.523,0.6,0.458,0.523,23,4,0
+Bob Gainey,Dallas Stars,0.523,0.6,0.458,0.523,23,4,0
 Ken Hitchcock,Philadelphia Flyers,0.513,0.737,0.278,0.513,19,3,0
 Pat Quinn,Toronto Maple Leafs,0.512,0.61,0.41,0.512,41,6,0
 Peter Laviolette,Philadelphia Flyers,0.511,0.609,0.409,0.511,23,3,0
 Alain Vigneault,New York Rangers,0.508,0.548,0.467,0.508,31,4,0
+Pat Burns,Toronto Maple Leafs,0.5,0.652,0.348,0.5,23,3,0
+Wren Blair,Minnesota North Stars,0.5,1.0,0.222,0.5,7,1,0
 Colin Campbell,New York Rangers,0.5,0.5,0.5,0.5,18,3,0
 Craig Hartsburg,Chicago Blackhawks,0.5,0.625,0.375,0.5,8,2,0
+Craig Patrick,New York Rangers,0.5,0.714,0.286,0.5,7,1,0
+Roger Neilson,Buffalo Sabres,0.5,0.4,0.667,0.5,4,1,0
+Leo Dandurand,Ottawa Senators (1917),0.5,1.0,,0.5,1,1,0
+Scotty Bowman,St. Louis Blues,0.5,0.63,0.36,0.5,26,4,0
 Herb Brooks,New York Rangers,0.5,0.455,0.538,0.5,12,3,0
 Ivan Hlinka,Pittsburgh Penguins,0.5,0.375,0.6,0.5,9,1,0
-Joel Quenneville,St. Louis Blues,0.5,0.545,0.457,0.5,34,7,0
-Lou Lamoriello,New Jersey Devils,0.5,0.6,0.4,0.5,10,2,0
-Michel Therrien,Montréal Canadiens,0.5,0.5,0.5,0.5,6,1,0
-Michel Therrien,Montréal Canadiens,0.5,0.529,0.471,0.5,17,3,0
-Mike Keenan,St. Louis Blues,0.5,0.6,0.4,0.5,10,2,0
-Pat Burns,Toronto Maple Leafs,0.5,0.652,0.348,0.5,23,3,0
-Roger Neilson,Buffalo Sabres,0.5,0.4,0.667,0.5,4,1,0
-Scotty Bowman,St. Louis Blues,0.5,0.63,0.36,0.5,26,4,0
-Tony Granato,Colorado Avalanche,0.5,0.5,0.5,0.5,9,2,0
-Dale Hunter,Washington Capitals,0.5,0.5,0.5,0.5,7,1,0
-Geoff Ward,Calgary Flames,0.5,0.4,0.6,0.5,5,1,0
-Wren Blair,Minnesota North Stars,0.5,1.0,0.222,0.5,7,1,0
-Leo Dandurand,Ottawa Senators (1917),0.5,1.0,,0.5,1,1,0
 Jack Evans,Hartford Whalers,0.5,0.714,0.333,0.5,8,2,0
 Emile Francis,St. Louis Blues,0.5,0.8,0.2,0.5,5,1,0
+Art Ross,Boston Bruins,0.5,0.6,0.375,0.5,9,3,1
+Tony Granato,Colorado Avalanche,0.5,0.5,0.5,0.5,9,2,0
+Ted Sator,New York Rangers,0.5,0.571,0.444,0.5,8,1,0
+Joel Quenneville,St. Louis Blues,0.5,0.545,0.457,0.5,34,7,0
 Pete Green,Montréal Canadiens,0.5,1.0,,0.5,1,1,0
 Ted Green,Edmonton Oilers,0.5,0.625,0.375,0.5,8,1,0
-Dick Irvin,Toronto Maple Leafs,0.5,0.611,0.367,0.508,33,9,1
-Emil Iverson,Chicago Blackhawks,0.5,1.0,,0.5,1,1,0
-Eddie Johnston,Pittsburgh Penguins,0.5,0.55,0.438,0.5,18,3,0
-Craig Patrick,New York Rangers,0.5,0.714,0.286,0.5,7,1,0
-Art Ross,Boston Bruins,0.5,0.6,0.375,0.5,9,3,1
-Ted Sator,New York Rangers,0.5,0.571,0.444,0.5,8,1,0
 Floyd Smith,Buffalo Sabres,0.5,0.765,0.2,0.5,16,3,0
 Conn Smythe,Toronto Maple Leafs,0.5,0.5,0.5,0.5,2,1,0
 Orval Tessier,Chicago Blackhawks,0.5,0.556,0.444,0.5,9,2,0
-Rod Brind'Amour,Carolina Hurricanes,0.5,0.68,0.304,0.5,24,4,0
+Dick Irvin,Toronto Maple Leafs,0.5,0.611,0.367,0.508,33,9,1
+Emil Iverson,Chicago Blackhawks,0.5,1.0,,0.5,1,1,0
+Lou Lamoriello,New Jersey Devils,0.5,0.6,0.4,0.5,10,2,0
+Dale Hunter,Washington Capitals,0.5,0.5,0.5,0.5,7,1,0
+Geoff Ward,Calgary Flames,0.5,0.4,0.6,0.5,5,1,0
+Michel Therrien,Montréal Canadiens,0.5,0.5,0.5,0.5,6,1,0
+Eddie Johnston,Pittsburgh Penguins,0.5,0.55,0.438,0.5,18,3,0
+Michel Therrien,Montréal Canadiens,0.5,0.529,0.471,0.5,17,3,0
 Jay Woodcroft,Edmonton Oilers,0.5,0.5,0.5,0.5,8,1,0
 Gerard Gallant,New York Rangers,0.5,0.8,0.2,0.5,10,1,0
-Jack Adams,Detroit Cougars,0.495,0.545,0.44,0.5,52,15,3
+Mike Keenan,St. Louis Blues,0.5,0.6,0.4,0.5,10,2,0
+Rod Brind'Amour,Carolina Hurricanes,0.5,0.68,0.304,0.5,24,4,0
+Jack Adams,Detroit Red Wings,0.495,0.545,0.44,0.5,52,15,3
 Punch Imlach,Toronto Maple Leafs,0.494,0.63,0.349,0.494,44,10,4
 Bruce Cassidy,Boston Bruins,0.493,0.486,0.5,0.493,36,6,0
 Brian Sutter,St. Louis Blues,0.488,0.682,0.263,0.488,20,4,0
@@ -146,29 +146,29 @@ Alain Vigneault,Vancouver Canucks,0.485,0.472,0.5,0.485,33,6,0
 Jacques Demers,St. Louis Blues,0.485,0.562,0.412,0.485,16,3,0
 Todd McLellan,San Jose Sharks,0.484,0.581,0.387,0.484,30,6,0
 Roger Neilson,Philadelphia Flyers,0.483,0.438,0.538,0.483,14,3,0
-Doug MacLean,Florida Panthers,0.481,0.571,0.385,0.481,13,2,0
 Frank Boucher,New York Rangers,0.481,0.833,0.2,0.481,13,4,1
+Doug MacLean,Florida Panthers,0.481,0.571,0.385,0.481,13,2,0
 Bob Johnson,Calgary Flames,0.481,0.577,0.385,0.481,25,5,0
 John Stevens,Philadelphia Flyers,0.478,0.6,0.385,0.478,11,2,0
 Lester Patrick,New York Rangers,0.477,0.552,0.417,0.538,31,12,2
 Randy Carlyle,Anaheim Ducks,0.476,0.455,0.5,0.476,10,2,0
-Lindy Ruff,Dallas Stars,0.474,0.5,0.444,0.474,9,2,0
 John Brophy,Toronto Maple Leafs,0.474,0.333,0.6,0.474,9,2,0
+Lindy Ruff,Dallas Stars,0.474,0.5,0.444,0.474,9,2,0
 Terry O'Reilly,Boston Bruins,0.472,0.647,0.316,0.472,17,3,0
 Paul MacLean,Ottawa Senators,0.471,0.571,0.4,0.471,8,2,0
 Craig Berube,St. Louis Blues,0.471,0.308,0.64,0.48,24,4,1
 Ron Wilson,Washington Capitals,0.469,0.412,0.533,0.469,15,3,0
 Bob Berry,St. Louis Blues,0.467,0.571,0.375,0.467,7,2,0
 Tommy Gorman,Montreal Maroons,0.467,0.286,0.625,0.533,7,3,1
-Jacques Martin,Montréal Canadiens,0.462,0.455,0.467,0.462,12,2,0
 Terry Murray,Washington Capitals,0.462,0.526,0.4,0.462,18,4,0
+Jacques Martin,Montréal Canadiens,0.462,0.455,0.467,0.462,12,2,0
 Claude Ruel,Montréal Canadiens,0.462,0.375,0.6,0.462,6,2,0
 Bruce Boudreau,Washington Capitals,0.46,0.476,0.438,0.46,17,4,0
 Tom Renney,New York Rangers,0.458,0.545,0.385,0.458,11,3,0
 Michel Bergeron,Quebec Nordiques,0.456,0.531,0.389,0.456,31,7,0
 Bob Hartley,Calgary Flames,0.455,0.8,0.167,0.455,5,1,0
-Bryan Murray,Washington Capitals,0.453,0.448,0.458,0.453,24,7,0
 Emile Francis,New York Rangers,0.453,0.528,0.385,0.453,34,9,0
+Bryan Murray,Washington Capitals,0.453,0.448,0.458,0.453,24,7,0
 Art Ross,Boston Bruins,0.452,0.4,0.5,0.532,14,6,1
 Rudy Pilous,Chicago Blackhawks,0.45,0.7,0.2,0.45,18,5,1
 Terry Simpson,New York Islanders,0.45,0.333,0.545,0.45,9,2,0
@@ -177,228 +177,228 @@ Roger Neilson,New York Rangers,0.448,0.562,0.308,0.448,13,3,0
 Cecil Hart,Montréal Canadiens,0.448,0.533,0.357,0.517,13,6,2
 Dave Tippett,Dallas Stars,0.447,0.435,0.458,0.447,21,5,0
 Sid Abel,Detroit Red Wings,0.446,0.548,0.353,0.446,29,7,0
-Dave Tippett,Phoenix Coyotes,0.444,0.333,0.583,0.444,12,3,0
 Pat Burns,Boston Bruins,0.444,0.444,0.444,0.444,8,2,0
-Paul Maurice,Carolina Hurricanes,0.444,0.5,0.4,0.444,8,1,0
-Rick Tocchet,Arizona Coyotes,0.444,0.75,0.2,0.444,4,1,0
-Murray Oliver,Minnesota North Stars,0.444,0.75,0.2,0.444,4,1,0
 Jeremy Colliton,Chicago Blackhawks,0.444,0.75,0.2,0.444,4,1,0
+Paul Maurice,Carolina Hurricanes,0.444,0.5,0.4,0.444,8,1,0
+Murray Oliver,Minnesota North Stars,0.444,0.75,0.2,0.444,4,1,0
+Dave Tippett,Phoenix Coyotes,0.444,0.333,0.583,0.444,12,3,0
+Rick Tocchet,Arizona Coyotes,0.444,0.75,0.2,0.444,4,1,0
 Gerry Cheevers,Boston Bruins,0.441,0.579,0.267,0.441,15,4,0
 Milt Schmidt,Boston Bruins,0.441,0.588,0.294,0.441,15,4,0
-Kevin Constantine,San Jose Sharks,0.44,0.455,0.429,0.44,11,2,0
 Jack Gordon,Minnesota North Stars,0.44,0.538,0.333,0.44,11,3,0
+Kevin Constantine,San Jose Sharks,0.44,0.455,0.429,0.44,11,2,0
+Bill Mahoney,Minnesota North Stars,0.438,0.556,0.286,0.438,7,1,0
 Claude Julien,Montréal Canadiens,0.438,0.375,0.5,0.438,7,2,0
 Jacques Martin,St. Louis Blues,0.438,0.625,0.25,0.438,7,2,0
-Bill Mahoney,Minnesota North Stars,0.438,0.556,0.286,0.438,7,1,0
-Al MacNeil,Atlanta Flames,0.435,0.636,0.25,0.435,10,3,0
+Al MacNeil,Calgary Flames,0.435,0.636,0.25,0.435,10,3,0
 John Tortorella,New York Rangers,0.432,0.571,0.304,0.432,19,4,0
-Darryl Sutter,San Jose Sharks,0.429,0.45,0.409,0.429,18,5,0
-Don Hay,Phoenix Coyotes,0.429,0.667,0.25,0.429,3,1,0
 Mike Sullivan,Boston Bruins,0.429,0.5,0.333,0.429,3,1,0
-Randy Carlyle,Toronto Maple Leafs,0.429,0.333,0.5,0.429,3,1,0
-Robbie Ftorek,New Jersey Devils,0.429,0.5,0.333,0.429,3,1,0
-Kevin Dineen,Florida Panthers,0.429,0.5,0.333,0.429,3,1,0
-Adam Oates,Washington Capitals,0.429,0.75,,0.429,3,1,0
-Patrick Roy,Colorado Avalanche,0.429,0.75,,0.429,3,1,0
-Craig Berube,Philadelphia Flyers,0.429,0.667,0.25,0.429,3,1,0
 Sid Abel,Chicago Blackhawks,0.429,0.667,0.25,0.429,3,1,0
-Eddie Johnston,Chicago Blackhawks,0.429,0.5,0.333,0.429,3,1,0
-Red Kelly,Pittsburgh Penguins,0.429,0.571,0.286,0.429,6,2,0
-Bobby Kromm,Detroit Red Wings,0.429,0.333,0.5,0.429,3,1,0
 Bob McCammon,Vancouver Canucks,0.429,0.667,0.25,0.429,3,1,0
 Tom McVie,New Jersey Devils,0.429,0.5,0.375,0.429,6,2,0
+Randy Carlyle,Toronto Maple Leafs,0.429,0.333,0.5,0.429,3,1,0
 Bob Murdoch,Winnipeg Jets (1979),0.429,0.667,0.25,0.429,3,1,0
+Darryl Sutter,San Jose Sharks,0.429,0.45,0.409,0.429,18,5,0
+Robbie Ftorek,New Jersey Devils,0.429,0.5,0.333,0.429,3,1,0
+Don Hay,Phoenix Coyotes,0.429,0.667,0.25,0.429,3,1,0
 Doug Risebrough,Calgary Flames,0.429,0.5,0.333,0.429,3,1,0
 Jim Roberts,Hartford Whalers,0.429,1.0,,0.429,3,1,0
 Art Ross,Boston Bruins,0.429,0.455,0.4,0.429,9,3,0
+Kevin Dineen,Florida Panthers,0.429,0.5,0.333,0.429,3,1,0
+Adam Oates,Washington Capitals,0.429,0.75,,0.429,3,1,0
+Eddie Johnston,Chicago Blackhawks,0.429,0.5,0.333,0.429,3,1,0
+Patrick Roy,Colorado Avalanche,0.429,0.75,,0.429,3,1,0
 Tom Webster,Los Angeles Kings,0.429,0.571,0.286,0.429,12,3,0
 Todd McLellan,Los Angeles Kings,0.429,0.333,0.5,0.429,3,1,0
+Craig Berube,Philadelphia Flyers,0.429,0.667,0.25,0.429,3,1,0
+Red Kelly,Pittsburgh Penguins,0.429,0.571,0.286,0.429,6,2,0
+Bobby Kromm,Detroit Red Wings,0.429,0.333,0.5,0.429,3,1,0
 Ken Hitchcock,St. Louis Blues,0.425,0.458,0.391,0.425,20,5,0
 Bob Pulford,Los Angeles Kings,0.423,0.615,0.231,0.423,11,4,0
 Darryl Sutter,Chicago Blackhawks,0.423,0.538,0.308,0.423,11,3,0
+Sheldon Keefe,Toronto Maple Leafs,0.421,0.364,0.5,0.421,8,3,0
+Roger Neilson,Toronto Maple Leafs,0.421,0.556,0.3,0.421,8,2,0
 Joel Quenneville,Colorado Avalanche,0.421,0.333,0.5,0.421,8,2,0
 Kevin Constantine,Pittsburgh Penguins,0.421,0.444,0.4,0.421,8,2,0
-Roger Neilson,Toronto Maple Leafs,0.421,0.556,0.3,0.421,8,2,0
-Sheldon Keefe,Toronto Maple Leafs,0.421,0.364,0.5,0.421,8,3,0
 John Tortorella,Columbus Blue Jackets,0.419,0.357,0.471,0.419,13,4,0
-Andy Murray,Los Angeles Kings,0.417,0.545,0.308,0.417,10,3,0
 Guy Carbonneau,Montréal Canadiens,0.417,0.571,0.2,0.417,5,1,0
-Jim Schoenfeld,Washington Capitals,0.417,0.545,0.308,0.417,10,3,0
 Ted Nolan,Buffalo Sabres,0.417,0.286,0.6,0.417,5,1,0
+Jim Schoenfeld,Washington Capitals,0.417,0.545,0.308,0.417,10,3,0
 Jack Capuano,New York Islanders,0.417,0.455,0.385,0.417,10,3,0
 Darryl Sutter,Calgary Flames,0.417,0.571,0.2,0.417,5,1,0
+Andy Murray,Los Angeles Kings,0.417,0.545,0.308,0.417,10,3,0
 Paul Maurice,Winnipeg Jets,0.41,0.35,0.474,0.41,16,5,0
 Bob Pulford,Chicago Blackhawks,0.409,0.417,0.4,0.409,9,3,0
 Scotty Bowman,Buffalo Sabres,0.409,0.6,0.25,0.409,9,4,0
 John Muckler,Buffalo Sabres,0.407,0.5,0.333,0.407,11,4,0
-Alain Vigneault,Montréal Canadiens,0.4,0.4,0.4,0.4,4,1,0
+Rosie Helmer,New York Americans,0.4,1.0,,0.4,2,1,0
 Bryan Murray,Detroit Red Wings,0.4,0.462,0.333,0.4,10,3,0
 Dave King,Calgary Flames,0.4,0.273,0.556,0.4,8,3,0
-Lorne Henning,Minnesota North Stars,0.4,0.333,0.5,0.4,2,1,0
-Mike Babcock,Toronto Maple Leafs,0.4,0.444,0.364,0.4,8,3,0
-Eddie Johnston,Pittsburgh Penguins,0.4,0.75,0.167,0.4,4,2,0
 Don Perry,Los Angeles Kings,0.4,0.25,0.5,0.4,4,1,0
 Harry Sinden,Boston Bruins,0.4,0.333,0.5,0.4,4,1,0
 Harry Sinden,Boston Bruins,0.4,0.5,0.333,0.4,2,1,0
-Rosie Helmer,New York Americans,0.4,1.0,,0.4,2,1,0
+Lorne Henning,Minnesota North Stars,0.4,0.333,0.5,0.4,2,1,0
+Eddie Johnston,Pittsburgh Penguins,0.4,0.75,0.167,0.4,4,2,0
+Alain Vigneault,Montréal Canadiens,0.4,0.4,0.4,0.4,4,1,0
+Mike Babcock,Toronto Maple Leafs,0.4,0.444,0.364,0.4,8,3,0
 Andrew Brunette,Florida Panthers,0.4,0.4,0.4,0.4,4,1,0
 Mike Yeo,Minnesota Wild,0.393,0.615,0.2,0.393,11,3,0
 Red Kelly,Los Angeles Kings,0.389,0.556,0.222,0.389,7,2,0
 Marc Crawford,Vancouver Canucks,0.387,0.294,0.5,0.387,12,4,0
-Jim Schoenfeld,Phoenix Coyotes,0.385,0.286,0.5,0.385,5,2,0
-Mike Keenan,Calgary Flames,0.385,0.667,0.143,0.385,5,2,0
-John Paddock,Winnipeg Jets (1979),0.385,0.5,0.286,0.385,5,2,0
 Rick Ley,Hartford Whalers,0.385,0.5,0.286,0.385,5,2,0
+Jim Schoenfeld,Phoenix Coyotes,0.385,0.286,0.5,0.385,5,2,0
+John Paddock,Winnipeg Jets (1979),0.385,0.5,0.286,0.385,5,2,0
+Mike Keenan,Calgary Flames,0.385,0.667,0.143,0.385,5,2,0
 Barry Trotz,Nashville Predators,0.38,0.462,0.292,0.38,19,7,0
 Jacques Lemaire,Minnesota Wild,0.379,0.308,0.438,0.379,11,3,0
 Dave Lewis,Detroit Red Wings,0.375,0.5,0.25,0.375,6,2,0
+Marcel Pronovost,Buffalo Sabres,0.375,0.75,,0.375,3,1,0
 Dave Gill,Ottawa Senators (1917),0.375,0.25,0.5,0.562,3,2,1
 Cecil Hart,Montréal Canadiens,0.375,0.6,,0.375,3,2,0
-Marcel Pronovost,Buffalo Sabres,0.375,0.75,,0.375,3,1,0
 Al Arbour,New York Islanders,0.37,0.583,0.2,0.37,10,3,0
 Paul Thompson,Chicago Blackhawks,0.368,0.444,0.3,0.368,7,4,0
 Red Kelly,Toronto Maple Leafs,0.367,0.429,0.312,0.367,11,4,0
+Rick Ley,Vancouver Canucks,0.364,0.2,0.5,0.364,4,1,0
 Claude Julien,Montréal Canadiens,0.364,0.4,0.333,0.364,4,1,0
 Ron Wilson,Anaheim Ducks,0.364,0.5,0.2,0.364,4,1,0
-Al Arbour,St. Louis Blues,0.364,0.6,0.167,0.364,4,1,0
 Red Dutton,New York Americans,0.364,0.4,0.333,0.364,4,3,0
-Rick Ley,Vancouver Canucks,0.364,0.2,0.5,0.364,4,1,0
-Ron Low,Edmonton Oilers,0.357,0.25,0.438,0.357,10,3,0
+Al Arbour,St. Louis Blues,0.364,0.6,0.167,0.364,4,1,0
 Red Berenson,St. Louis Blues,0.357,0.571,0.143,0.357,5,2,0
+Ron Low,Edmonton Oilers,0.357,0.25,0.438,0.357,10,3,0
 Dean Evason,Minnesota Wild,0.353,0.25,0.444,0.353,6,3,0
+Todd Reirden,Washington Capitals,0.333,0.5,0.143,0.367,5,2,0
 Bob Gainey,Montréal Canadiens,0.333,,0.667,0.333,2,1,0
-Bruce Cassidy,Washington Capitals,0.333,,0.667,0.333,2,1,0
-Gerard Gallant,Florida Panthers,0.333,0.333,0.333,0.333,2,1,0
-Jim Playfair,Calgary Flames,0.333,0.667,,0.333,2,1,0
-John Torchetti,Minnesota Wild,0.333,0.333,0.333,0.333,2,1,0
-Kevin Constantine,New Jersey Devils,0.333,0.667,,0.333,2,1,0
+Dave Hakstol,Philadelphia Flyers,0.333,0.167,0.5,0.333,4,2,0
+Joe Crozier,Buffalo Sabres,0.333,0.333,0.333,0.333,2,1,0
 Pat Quinn,Vancouver Canucks,0.333,0.333,0.333,0.333,2,1,0
+Dan Maloney,Winnipeg Jets (1979),0.333,0.429,0.25,0.333,5,2,0
+Bruce Cassidy,Washington Capitals,0.333,,0.667,0.333,2,1,0
+Nick Beverley,Toronto Maple Leafs,0.333,0.667,,0.333,2,1,0
 Peter Laviolette,New York Islanders,0.333,0.6,0.143,0.333,4,2,0
 Pierre Page,Minnesota North Stars,0.333,0.6,0.143,0.333,4,2,0
+Leo Boivin,St. Louis Blues,0.333,1.0,,0.333,1,1,0
 Pierre Page,Quebec Nordiques,0.333,0.667,,0.333,2,1,0
+Charlie Burns,Minnesota North Stars,0.333,0.667,,0.333,2,1,0
 Rick Dudley,Buffalo Sabres,0.333,0.5,0.167,0.333,4,2,0
 Robbie Ftorek,Boston Bruins,0.333,0.333,0.333,0.333,2,1,0
-Terry Crisp,Tampa Bay Lightning,0.333,0.333,0.333,0.333,2,1,0
-Terry Murray,Los Angeles Kings,0.333,0.167,0.5,0.333,4,2,0
-Brent Sutter,New Jersey Devils,0.333,0.286,0.4,0.333,4,2,0
-Cory Clouston,Ottawa Senators,0.333,,0.667,0.333,2,1,0
-Todd Richards,Columbus Blue Jackets,0.333,0.333,0.333,0.333,2,1,0
-Joe Sacco,Colorado Avalanche,0.333,0.333,0.333,0.333,2,1,0
-Willie Desjardins,Vancouver Canucks,0.333,0.667,,0.333,2,1,0
-Dave Cameron,Ottawa Senators,0.333,0.333,0.333,0.333,2,1,0
-Dave Hakstol,Philadelphia Flyers,0.333,0.167,0.5,0.333,4,2,0
-Nick Beverley,Toronto Maple Leafs,0.333,0.667,,0.333,2,1,0
-Leo Boivin,St. Louis Blues,0.333,1.0,,0.333,1,1,0
-Charlie Burns,Minnesota North Stars,0.333,0.667,,0.333,2,1,0
+Frank Patrick,Boston Bruins,0.333,0.667,,0.333,2,2,0
 John Cunniff,New Jersey Devils,0.333,0.333,0.333,0.333,2,1,0
+Gerard Gallant,Florida Panthers,0.333,0.333,0.333,0.333,2,1,0
 Jules Dugal,Montréal Canadiens,0.333,1.0,,0.333,1,1,0
 Phil Esposito,New York Rangers,0.333,0.333,0.333,0.333,2,1,0
-Doug Harvey,New York Rangers,0.333,1.0,,0.333,2,1,0
-Billy Inglis,Buffalo Sabres,0.333,,1.0,0.333,1,1,0
-Dan Maloney,Winnipeg Jets (1979),0.333,0.429,0.25,0.333,5,2,0
-Frank Patrick,Boston Bruins,0.333,0.667,,0.333,2,2,0
+Terry Crisp,Tampa Bay Lightning,0.333,0.333,0.333,0.333,2,1,0
+Terry Murray,Los Angeles Kings,0.333,0.167,0.5,0.333,4,2,0
+Jim Playfair,Calgary Flames,0.333,0.667,,0.333,2,1,0
+Brent Sutter,New Jersey Devils,0.333,0.286,0.4,0.333,4,2,0
 Ken Schinkel,Pittsburgh Penguins,0.333,0.333,0.333,0.333,2,2,0
 Terry Simpson,Winnipeg Jets (1979),0.333,0.333,0.333,0.333,2,1,0
+John Torchetti,Minnesota Wild,0.333,0.333,0.333,0.333,2,1,0
+Cory Clouston,Ottawa Senators,0.333,,0.667,0.333,2,1,0
+Doug Harvey,New York Rangers,0.333,1.0,,0.333,2,1,0
+Todd Richards,Columbus Blue Jackets,0.333,0.333,0.333,0.333,2,1,0
+Joe Sacco,Colorado Avalanche,0.333,0.333,0.333,0.333,2,1,0
+Kevin Constantine,New Jersey Devils,0.333,0.667,,0.333,2,1,0
+Billy Inglis,Buffalo Sabres,0.333,,1.0,0.333,1,1,0
 Jean-Guy Talbot,New York Rangers,0.333,1.0,,0.333,1,1,0
+Willie Desjardins,Vancouver Canucks,0.333,0.667,,0.333,2,1,0
 Johnny Wilson,Pittsburgh Penguins,0.333,0.2,0.429,0.333,4,2,0
-Todd Reirden,Washington Capitals,0.333,0.5,0.143,0.367,5,2,0
-Joe Crozier,Buffalo Sabres,0.333,0.333,0.333,0.333,2,1,0
+Dave Cameron,Ottawa Senators,0.333,0.333,0.333,0.333,2,1,0
 Lynn Patrick,Boston Bruins,0.321,0.385,0.267,0.339,9,4,0
 Dit Clapper,Boston Bruins,0.32,0.417,0.231,0.32,8,4,0
 Brian Sutter,Boston Bruins,0.318,0.167,0.5,0.318,7,3,0
 Robbie Ftorek,Los Angeles Kings,0.312,0.5,0.125,0.312,5,2,0
 Joel Quenneville,Florida Panthers,0.3,0.4,0.2,0.3,3,2,0
-Bill Barber,Philadelphia Flyers,0.273,0.333,0.2,0.273,3,2,0
-Peter Laviolette,Washington Capitals,0.273,0.333,0.2,0.273,3,2,0
-Keith Allen,Philadelphia Flyers,0.273,0.333,0.2,0.273,3,2,0
-Fred Glover,Oakland Seals,0.273,0.333,0.2,0.273,3,2,0
 Barry Long,Winnipeg Jets (1979),0.273,0.4,0.167,0.273,3,2,0
+Keith Allen,Philadelphia Flyers,0.273,0.333,0.2,0.273,3,2,0
+Peter Laviolette,Washington Capitals,0.273,0.333,0.2,0.273,3,2,0
 John McLellan,Toronto Maple Leafs,0.273,0.2,0.333,0.273,3,2,0
 Ted Sator,Buffalo Sabres,0.273,0.4,0.167,0.273,3,2,0
+Fred Glover,Oakland Seals,0.273,0.333,0.2,0.273,3,2,0
 Mario Tremblay,Montréal Canadiens,0.273,0.2,0.333,0.273,3,2,0
+Bill Barber,Philadelphia Flyers,0.273,0.333,0.2,0.273,3,2,0
+Clem Loughlin,Chicago Blackhawks,0.25,0.5,,0.375,1,2,0
+Jerry LaFlamme,Montreal Maroons,0.25,,0.5,0.25,1,1,0
 Bob Berry,Montréal Canadiens,0.25,0.2,0.333,0.25,2,2,0
+Harry Neale,Vancouver Canucks,0.25,0.5,,0.25,1,1,0
 Odie Cleghorn,Pittsburgh Pirates,0.25,,0.333,0.375,1,2,0
 Sprague Cleghorn,Montreal Maroons,0.25,0.5,,0.5,1,1,0
-Clem Loughlin,Chicago Blackhawks,0.25,0.5,,0.375,1,2,0
-Harry Neale,Vancouver Canucks,0.25,0.5,,0.25,1,1,0
 Barclay Plager,St. Louis Blues,0.25,,0.5,0.25,1,1,0
 Phil Watson,New York Rangers,0.25,0.333,0.2,0.25,4,3,0
-Jerry LaFlamme,Montreal Maroons,0.25,,0.5,0.25,1,1,0
 John Hynes,Nashville Predators,0.214,0.429,,0.214,3,3,0
-Bob Francis,Phoenix Coyotes,0.2,0.25,0.167,0.2,2,2,0
-Brian Sutter,Chicago Blackhawks,0.2,,0.333,0.2,1,1,0
-Herb Brooks,New Jersey Devils,0.2,0.5,,0.2,1,1,0
-Jacques Lemaire,New Jersey Devils,0.2,0.333,,0.2,1,1,0
-Kevin Lowe,Edmonton Oilers,0.2,0.5,,0.2,1,1,0
-Mike Kitchen,St. Louis Blues,0.2,0.5,,0.2,1,1,0
+John Hynes,New Jersey Devils,0.2,0.5,,0.2,1,1,0
 Mike Murphy,Los Angeles Kings,0.2,,0.333,0.2,1,1,0
 Mike O'Connell,Boston Bruins,0.2,0.5,,0.2,1,1,0
-Steve Stirling,New York Islanders,0.2,,0.333,0.2,1,1,0
-Ted Nolan,New York Islanders,0.2,,0.333,0.2,1,1,0
-Bruce Boudreau,Minnesota Wild,0.2,0.2,0.2,0.2,2,2,0
-Bill Peters,Calgary Flames,0.2,0.333,,0.2,1,1,0
-Mike Johnston,Pittsburgh Penguins,0.2,,0.333,0.2,1,1,0
-Jeff Blashill,Detroit Red Wings,0.2,0.5,,0.2,1,1,0
-John Hynes,New Jersey Devils,0.2,0.5,,0.2,1,1,0
+Brian Sutter,Chicago Blackhawks,0.2,,0.333,0.2,1,1,0
 Bob Berry,Los Angeles Kings,0.2,0.2,0.2,0.2,2,3,0
-Doug Carpenter,Toronto Maple Leafs,0.2,0.5,,0.2,1,1,0
-Steve Kasper,Boston Bruins,0.2,0.5,,0.2,1,1,0
 Bob Murdoch,Chicago Blackhawks,0.2,0.5,,0.2,1,1,0
 Harry Neale,Vancouver Canucks,0.2,0.25,0.167,0.2,2,3,0
+Doug Carpenter,Toronto Maple Leafs,0.2,0.5,,0.2,1,1,0
 Craig Patrick,Pittsburgh Penguins,0.2,0.5,,0.2,1,1,0
 Larry Pleau,Hartford Whalers,0.2,0.2,0.2,0.2,2,2,0
+Steve Stirling,New York Islanders,0.2,,0.333,0.2,1,1,0
+Herb Brooks,New Jersey Devils,0.2,0.5,,0.2,1,1,0
+Ted Nolan,New York Islanders,0.2,,0.333,0.2,1,1,0
+Jacques Lemaire,New Jersey Devils,0.2,0.333,,0.2,1,1,0
+Bruce Boudreau,Minnesota Wild,0.2,0.2,0.2,0.2,2,2,0
 Alf Smith,Ottawa Senators (1917),0.2,0.5,,0.2,1,1,0
+Kevin Lowe,Edmonton Oilers,0.2,0.5,,0.2,1,1,0
 Jean-Guy Talbot,St. Louis Blues,0.2,0.5,,0.2,1,1,0
+Steve Kasper,Boston Bruins,0.2,0.5,,0.2,1,1,0
+Bill Peters,Calgary Flames,0.2,0.333,,0.2,1,1,0
+Mike Johnston,Pittsburgh Penguins,0.2,,0.333,0.2,1,1,0
+Bob Francis,Phoenix Coyotes,0.2,0.25,0.167,0.2,2,2,0
+Mike Kitchen,St. Louis Blues,0.2,0.5,,0.2,1,1,0
+Jeff Blashill,Detroit Red Wings,0.2,0.5,,0.2,1,1,0
 Eddie Gerard,Montreal Maroons,0.167,,0.333,0.25,1,2,0
-King Clancy,Toronto Maple Leafs,0.143,0.167,0.125,0.143,2,3,0
 Phil Maloney,Vancouver Canucks,0.143,,0.25,0.143,1,2,0
 Mike Nykoluk,Toronto Maple Leafs,0.143,0.333,,0.143,1,2,0
+King Clancy,Toronto Maple Leafs,0.143,0.167,0.125,0.143,2,3,0
 Nick Polano,Detroit Red Wings,0.143,,0.25,0.143,1,2,0
 Tom Watt,Winnipeg Jets (1979),0.143,0.333,,0.143,1,2,0
 Dave Tippett,Edmonton Oilers,0.125,0.25,,0.125,1,2,0
 Fred Creighton,Atlanta Flames,0.111,0.25,,0.111,1,4,0
 Bob McCammon,Philadelphia Flyers,0.1,,0.2,0.1,1,3,0
-Andy Murray,St. Louis Blues,0.0,,,,0,1,0
+Newsy Lalonde,Montréal Canadiens,0.0,,,0.25,0,2,0
+Newsy Lalonde,Ottawa Senators (1917),0.0,,,0.25,0,1,0
 Bob Gainey,Montréal Canadiens,0.0,,,,0,1,0
+David Quinn,New York Rangers,0.0,,,,0,1,0
 Bob Hartley,Atlanta Thrashers,0.0,,,,0,1,0
-Bob Pulford,Chicago Blackhawks,0.0,,,,0,2,0
-Butch Goring,Boston Bruins,0.0,,,,0,1,0
-Craig Hartsburg,Anaheim Ducks,0.0,,,,0,1,0
-John Stevens,Los Angeles Kings,0.0,,,,0,1,0
-Ken Hitchcock,Columbus Blue Jackets,0.0,,,,0,1,0
-Larry Robinson,Los Angeles Kings,0.0,,,,0,1,0
-Pat Quinn,Los Angeles Kings,0.0,,,,0,1,0
-Pierre Page,Calgary Flames,0.0,,,,0,1,0
-Terry Murray,Florida Panthers,0.0,,,,0,1,0
-Glen Gulutzan,Calgary Flames,0.0,,,,0,1,0
 Sid Abel,Detroit Red Wings,0.0,,,,0,1,0
+Bob Pulford,Chicago Blackhawks,0.0,,,,0,2,0
+Keith Magnuson,Chicago Blackhawks,0.0,,,,0,1,0
+Pat Quinn,Los Angeles Kings,0.0,,,,0,1,0
+Butch Goring,Boston Bruins,0.0,,,,0,1,0
 Don Blackburn,Hartford Whalers,0.0,,,,0,1,0
+Pierre Page,Calgary Flames,0.0,,,,0,1,0
+Pete Muldoon,Chicago Blackhawks,0.0,,,0.25,0,1,0
+Craig Hartsburg,Anaheim Ducks,0.0,,,,0,1,0
 George Boucher,Montreal Maroons,0.0,,,,0,1,0
 Frank Carroll,Toronto St. Patricks,0.0,,,,0,1,0
+Craig Patrick,New York Rangers,0.0,,,,0,1,0
 Alex Currie,Ottawa Senators (1917),0.0,,,0.25,0,1,0
 Leo Dandurand,Montréal Canadiens,0.0,,,0.25,0,1,0
+Eddie Powers,Toronto St. Patricks,0.0,,,,0,1,0
 Art Duncan,Toronto Maple Leafs,0.0,,,0.25,0,1,0
 Phil Esposito,New York Rangers,0.0,,,,0,1,0
 John Ferguson Sr.,Winnipeg Jets (1979),0.0,,,,0,1,0
+Terry Murray,Florida Panthers,0.0,,,,0,1,0
 Emile Francis,St. Louis Blues,0.0,,,,0,1,0
 Bernie Geoffrion,Atlanta Flames,0.0,,,,0,1,0
 Tommy Gorman,New York Americans,0.0,,,0.25,0,1,0
+John Stevens,Los Angeles Kings,0.0,,,,0,1,0
 Johnny Gottselig,Chicago Blackhawks,0.0,,,,0,1,0
 Ted Harris,Minnesota North Stars,0.0,,,,0,1,0
-Punch Imlach,Toronto Maple Leafs,0.0,,,,0,1,0
-Pat Kelly,Colorado Rockies,0.0,,,,0,1,0
-Newsy Lalonde,Montréal Canadiens,0.0,,,0.25,0,2,0
-Newsy Lalonde,Ottawa Senators (1917),0.0,,,0.25,0,1,0
-Keith Magnuson,Chicago Blackhawks,0.0,,,,0,1,0
-Pete Muldoon,Chicago Blackhawks,0.0,,,0.25,0,1,0
-Craig Patrick,New York Rangers,0.0,,,,0,1,0
-Eddie Powers,Toronto St. Patricks,0.0,,,,0,1,0
+Ken Hitchcock,Columbus Blue Jackets,0.0,,,,0,1,0
 Vic Stasiuk,Philadelphia Flyers,0.0,,,,0,1,0
 Ron Stewart,Los Angeles Kings,0.0,,,,0,1,0
+Punch Imlach,Toronto Maple Leafs,0.0,,,,0,1,0
+Larry Robinson,Los Angeles Kings,0.0,,,,0,1,0
 Bill Tobin,Chicago Blackhawks,0.0,,,0.25,0,1,0
+Glen Gulutzan,Calgary Flames,0.0,,,,0,1,0
 Tom Watt,Vancouver Canucks,0.0,,,,0,1,0
+Pat Kelly,Colorado Rockies,0.0,,,,0,1,0
 Bill White,Chicago Blackhawks,0.0,,,,0,1,0
+Andy Murray,St. Louis Blues,0.0,,,,0,1,0
 Garry Young,St. Louis Blues,0.0,,,,0,1,0
-David Quinn,New York Rangers,0.0,,,,0,1,0
 Eddie Oatman,Calgary Tigers,0.0,,,,0,1,0
 Ken McKenzie,Edmonton Eskimos,0.0,,,,0,1,0
